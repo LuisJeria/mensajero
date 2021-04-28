@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MensajeriaApp", "MensajeriaApp\MensajeriaApp.csproj", "{6F25B583-37C8-40F5-ABC8-94D0043C52B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MensajeriaModel", "MensajeriaModel\MensajeriaModel.csproj", "{289D53DE-BA19-4418-9402-A3DCB20FBCFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F25B583-37C8-40F5-ABC8-94D0043C52B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F25B583-37C8-40F5-ABC8-94D0043C52B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F25B583-37C8-40F5-ABC8-94D0043C52B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F25B583-37C8-40F5-ABC8-94D0043C52B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289D53DE-BA19-4418-9402-A3DCB20FBCFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289D53DE-BA19-4418-9402-A3DCB20FBCFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289D53DE-BA19-4418-9402-A3DCB20FBCFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289D53DE-BA19-4418-9402-A3DCB20FBCFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAE84EFE-2F31-425D-B0F1-09716B524EAB}
+	EndGlobalSection
+EndGlobal
