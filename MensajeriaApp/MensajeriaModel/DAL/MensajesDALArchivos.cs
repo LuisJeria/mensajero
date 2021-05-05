@@ -37,9 +37,11 @@ namespace MensajeriaModel.DAL
             {
                 using (StreamReader reader = new StreamReader(archivo))
                 {
+
                     string linea = null;
                     do
                     {
+                        linea = reader.ReadLine();
                         if (linea != null)
                         {
                             string[] textoArray = linea.Split(';');
